@@ -8,7 +8,7 @@ Setup:
     pip install atproto
 2. Create secrets folder
 3. Add file named bluesky with your password
-4. Update my_handle variable to your profile 
+4. Update username variable to your profile 
 5. Run!
 
 Could this have been written with a __main__ function and command line arguments?  Sure could have!
